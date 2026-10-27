@@ -1,0 +1,92 @@
+[
+  {
+    "id": "g001",
+    "query": "How many road-crash deaths did WHO estimate in Pakistan in 2021?",
+    "ideal_answer": "The WHO estimated that 28,000 people died in road crashes in Pakistan in 2021.",
+    "source": "Pakistan Road Safety Profile 2025, page 1"
+  },
+  {
+    "id": "g002",
+    "query": "How did estimates of road-crash deaths in Pakistan in 2021 differ across sources?",
+    "ideal_answer": "The profile reports that WHO estimated around 28,000 fatalities, national statistics reported about 5,000 deaths, and the Global Burden of Disease study estimated 38,000.",
+    "source": "Pakistan Road Safety Profile 2025, page 1"
+  },
+  {
+    "id": "g003",
+    "query": "What share of road-crash fatalities in Pakistan were pedestrians in 2021?",
+    "ideal_answer": "Pedestrians accounted for 41% of road-crash fatalities in Pakistan in 2021.",
+    "source": "Pakistan Road Safety Profile 2025, page 2"
+  },
+  {
+    "id": "g004",
+    "query": "What was the estimated economic cost of road-crash fatalities and serious injuries in Pakistan in 2021?",
+    "ideal_answer": "The estimated cost was about USD 12 billion in 2021, equivalent to roughly 3% of Pakistan's GDP.",
+    "source": "Pakistan Road Safety Profile 2025, page 3"
+  },
+  {
+    "id": "g005",
+    "query": "How many vehicles per 1,000 people did Pakistan have in 2022?",
+    "ideal_answer": "Pakistan had 160 vehicles per 1,000 population in 2022.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g006",
+    "query": "What percentage of Pakistan's vehicle fleet consisted of two-wheelers in 2022?",
+    "ideal_answer": "Two-wheelers accounted for 78% of Pakistan's vehicle fleet in 2022.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g007",
+    "query": "What percentage of Pakistan's vehicle fleet consisted of three-wheelers in 2022?",
+    "ideal_answer": "Three-wheelers accounted for 8% of Pakistan's vehicle fleet in 2022.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g008",
+    "query": "What percentage of Pakistan's vehicle fleet consisted of light-duty vehicles in 2022?",
+    "ideal_answer": "Light-duty vehicles accounted for 12% of Pakistan's vehicle fleet in 2022.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g009",
+    "query": "What was Pakistan's road-traffic crash fatality rate per 100,000 population in 2021?",
+    "ideal_answer": "Pakistan's road-traffic crash fatality rate was 11.9 deaths per 100,000 population in 2021.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g010",
+    "query": "How did Pakistan's road-traffic crash fatality rate compare with the Asia-Pacific average in 2021?",
+    "ideal_answer": "Pakistan's rate was 11.9 deaths per 100,000 population, lower than the Asia-Pacific average of 15.2 deaths per 100,000 population.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g011",
+    "query": "By what percentage did Pakistan's road-crash fatalities per 100,000 population decrease between 2010 and 2021?",
+    "ideal_answer": "Pakistan's road-crash fatalities per 100,000 population decreased by 11% between 2010 and 2021.",
+    "source": "Pakistan Road Safety Profile 2025, page 4"
+  },
+  {
+    "id": "g012",
+    "query": "How many road-crash fatalities per 100,000 registered vehicles did Pakistan have in 2021?",
+    "ideal_answer": "Pakistan had approximately 81 road-crash fatalities per 100,000 registered vehicles in 2021.",
+    "source": "Pakistan Road Safety Profile 2025, page 5"
+  },
+  {
+    "id": "g013",
+    "query": "What share of Pakistan's roads had a three-star-or-better safety rating for pedestrians in 2024?",
+    "ideal_answer": "Only 1% of Pakistan's roads had a three-star-or-better safety rating for pedestrians in 2024.",
+    "source": "Pakistan Road Safety Profile 2025, page 3"
+  },
+  {
+    "id": "g014",
+    "query": "What share of Pakistan's roads had a three-star-or-better safety rating for bicyclists in 2024?",
+    "ideal_answer": "Only 7% of Pakistan's roads had a three-star-or-better safety rating for bicyclists in 2024.",
+    "source": "Pakistan Road Safety Profile 2025, page 3"
+  },
+  {
+    "id": "g015",
+    "query": "What percentage of Pakistan's GDP was spent on healthcare in 2021, compared with the estimated cost of road-crash fatalities and serious injuries?",
+    "ideal_answer": "Healthcare expenditure was 2.9% of Pakistan's GDP in 2021, while the estimated cost of road-crash fatalities and serious injuries was roughly 3% of GDP.",
+    "source": "Pakistan Road Safety Profile 2025, page 3"
+  }
+]

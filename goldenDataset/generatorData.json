@@ -1,0 +1,91 @@
+ [
+    {
+        "input": "How many road-crash deaths did WHO estimate in Pakistan in 2021?",
+        "expected_output": "The WHO estimated that 28,000 people died in road crashes in Pakistan in 2021.",
+        "context": [
+            "For 2021, WHO estimated 28,000 road-crash deaths in Pakistan, accounting for 2.2% of all deaths in the country."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 1}
+    },
+    {
+        "input": "How did the three estimates of road-crash fatalities in Pakistan differ in 2021?",
+        "expected_output": "The WHO estimated around 28,000 deaths, national statistics reported about 5,000 deaths, and the Global Burden of Disease study estimated 38,000 deaths.",
+        "context": [
+            "The WHO estimates around 28,000 fatalities in 2021, national statistics report only about 5,000 deaths, and the Global Burden of Disease study estimates 38,000."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 1}
+    },
+    {
+        "input": "What percentage of road-crash fatalities in Pakistan were pedestrians in 2021?",
+        "expected_output": "Pedestrians accounted for 41% of road-crash fatalities in Pakistan in 2021.",
+        "context": [
+            "Pedestrians make up a significant portion of fatalities, accounting for 41% of the total in 2021."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 2}
+    },
+    {
+        "input": "What share of road-crash fatalities consisted of minors and seniors between 2015 and 2019?",
+        "expected_output": "Minors younger than 14 and seniors older than 65 combined accounted for 30% of road-crash fatalities between 2015 and 2019.",
+        "context": [
+            "The combined share of minors (<14 years old) and seniors (>65 years old) in road-crash fatalities was 30% between 2015 and 2019."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 2}
+    },
+    {
+        "input": "What was the estimated cost of road-crash fatalities and serious injuries in Pakistan in 2021?",
+        "expected_output": "The estimated cost was about 12 billion US dollars in 2021, equivalent to roughly 3% of Pakistan's GDP.",
+        "context": [
+            "In 2021, the estimated cost of fatalities and serious injuries was about 12 billion USD, equivalent to roughly 3% of Pakistan's GDP."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 3}
+    },
+    {
+        "input": "How did the economic cost of road crashes compare with Pakistan's healthcare expenditure in 2021?",
+        "expected_output": "The estimated cost of road-crash fatalities and serious injuries was roughly 3% of GDP, exceeding healthcare expenditure, which was 2.9% of GDP in 2021.",
+        "context": [
+            "The estimated cost of fatalities and serious injuries was about 12 billion USD, equivalent to roughly 3% of Pakistan's GDP. This figure exceeds the country's healthcare expenditure of 2.9% of GDP in the same year."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 3}
+    },
+    {
+        "input": "What proportion of the vehicle fleet in Pakistan consisted of two-wheelers in 2022?",
+        "expected_output": "Two-wheelers accounted for 78% of Pakistan's vehicle fleet in 2022.",
+        "context": [
+            "Pakistan had 160 vehicles per thousand population in 2022. The vehicle fleet was dominated by two-wheelers (78%), followed by three-wheelers (8%) and light-duty vehicles (12%)."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 4}
+    },
+    {
+        "input": "What was Pakistan's road-crash fatality rate per 100,000 population in 2021?",
+        "expected_output": "Pakistan's road-crash fatality rate was 11.9 per 100,000 population in 2021.",
+        "context": [
+            "Pakistan's fatality rate in 2021 was 11.9 per 100,000 population, lower than the Asia-Pacific average of 15.2 and the Central and West Asia average of 13.1."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 4}
+    },
+    {
+        "input": "How much did Pakistan's road-crash fatality rate per 100,000 population decrease between 2010 and 2021?",
+        "expected_output": "Pakistan's rate decreased by 11% between 2010 and 2021, compared with a 19% reduction in the Asia-Pacific region.",
+        "context": [
+            "Pakistan saw an 11% decrease in fatalities per 100,000 population between 2010 and 2021, less than the 19% reduction in Asia-Pacific."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 4}
+    },
+    {
+        "input": "What was Pakistan's road-crash fatality rate per 100,000 registered vehicles in 2021?",
+        "expected_output": "Pakistan had about 81 fatalities per 100,000 registered vehicles in 2021.",
+        "context": [
+            "In 2021, Pakistan had about 81 fatalities per 100,000 registered vehicles."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 5}
+    },
+    {
+        "input": "What annual reduction in road fatalities is needed to halve deaths by 2030?",
+        "expected_output": "An annual reduction of at least 7.4% is needed to achieve the target of halving road fatalities by 2030.",
+        "context": [
+            "The Decade of Action for Road Safety 2021-2030 aims to cut road fatalities in half by 2030. An annual reduction of at least 7.4% is necessary to achieve this."
+        ],
+        "additional_metadata": {"source": "Pakistan Road Safety Profile 2025", "page": 5}
+    }
+]
+
